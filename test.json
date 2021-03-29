@@ -1,0 +1,233 @@
+{
+    "registros": 12,
+    "dados": [
+        {
+            "id": 83,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "jboss",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.199",
+                    "nome": "caddeapllx711.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-06-30 17:07:56"
+        },
+        {
+            "id": 89,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "tqs",
+            "plataforma": "jboss",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.205",
+                    "nome": "caddeapllx717.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-01 16:20:39"
+        },
+        {
+            "id": 105,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "vm",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.224",
+                    "nome": "caddeapllx736.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-08 17:12:10"
+        },
+        {
+            "id": 107,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "vm",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.226",
+                    "nome": "caddeapllx738.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-08 18:05:11"
+        },
+        {
+            "id": 104,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "vm",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.223",
+                    "nome": "caddeapllx735.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-08 16:31:51"
+        },
+        {
+            "id": 106,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "vm",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.225",
+                    "nome": "caddeapllx737.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-08 17:24:57"
+        },
+        {
+            "id": 108,
+            "status": "desativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "vm",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.227",
+                    "nome": "caddeapllx739.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-08 18:15:16"
+        },
+        {
+            "id": 109,
+            "status": "ativado",
+            "sistema": "sicmu",
+            "ambiente": "des",
+            "plataforma": "vm",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": 270,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.228",
+                    "nome": "caddeapllx740.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-08 18:23:49"
+        },
+        {
+            "id": 100,
+            "status": "ativado",
+            "sistema": "sicmu",
+            "ambiente": "tqs",
+            "plataforma": "jboss",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.217",
+                    "nome": "caddeapllx729.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-06 14:58:53"
+        },
+        {
+            "id": 93,
+            "status": "ativado",
+            "sistema": "sicmu",
+            "ambiente": "hmp",
+            "plataforma": "jboss",
+            "produto": "jboss",
+            "site": null,
+            "ipbackup": null,
+            "versao_plataforma": "7.1",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "ip": "10.116.193.209",
+                    "nome": "caddeapllx721.agil.nprd.caixa.gov.br"
+                }
+            ],
+            "inclusao": "2020-07-02 15:05:48"
+        },
+        {
+            "id": 1414,
+            "status": "ativado",
+            "sistema": "esteira",
+            "ambiente": "hmp",
+            "plataforma": "vm",
+            "produto": "apache",
+            "site": "ctc_nprd",
+            "ipbackup": null,
+            "versao_plataforma": "2.4.29",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "nome": "caddeapllx139.extra.caixa.gov.br",
+                    "ip": "10.116.223.235"
+                }
+            ],
+            "inclusao": "2021-03-01 16:42:28"
+        },
+        {
+            "id": 1415,
+            "status": "ativado",
+            "sistema": "esteira",
+            "ambiente": "hmp",
+            "plataforma": "vm",
+            "produto": "apache",
+            "site": "ctc_nprd",
+            "ipbackup": null,
+            "versao_plataforma": "2.4.29",
+            "solicitacoes_id": null,
+            "servidores_json": [
+                {
+                    "nome": "caddeapllx140.extra.caixa.gov.br",
+                    "ip": "10.116.223.236"
+                }
+            ],
+            "inclusao": "2021-03-01 16:42:39"
+        }
+    ]
+}
